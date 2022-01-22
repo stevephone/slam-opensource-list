@@ -39,7 +39,7 @@
 >>Github地址：https://github.com/hku-mars/FAST_LIO    [项目地址](https://github.com/hku-mars/FAST_LIO)
 
 ## 5.LVI-SAM
-麻省理工大佬TixiaoShan继LIO-SAM又开源了lvi-sam,这是一个激光+视觉+惯性的紧耦合多传感器融合的slam系统。用于移动机器人的实时状态估计和建图。主要创新点：
+>麻省理工大佬TixiaoShan继LIO-SAM又开源了lvi-sam,这是一个激光+视觉+惯性的紧耦合多传感器融合的slam系统。用于移动机器人的实时状态估计和建图。主要创新点：
 
 * 通过因子图同时实现多传感器融合、全局优化和回环检测；
 
